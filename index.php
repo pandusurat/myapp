@@ -1,4 +1,4 @@
-ini variabel pertama
+update fitur AI
 
 
-ini variable kedua
+update fitur keranjang
